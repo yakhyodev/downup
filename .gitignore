@@ -1,0 +1,8 @@
+# Lokal va maxfiy fayllarni GitHubga yuklashni taqiqlash
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+.env
+.DS_Store
